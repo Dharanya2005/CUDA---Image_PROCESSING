@@ -1,6 +1,6 @@
 # NPP Grayscale Converter
 
-This project was created by **KUSHALI PG**.
+This project was created by **DHARANYA**.
 
 It aims to create a simple converter that transforms an input image (`Emerald_Lakes_New_Zealang.jpg`) to grayscale (`greyscale_output.ipg`) using **NVIDIA Performance Primitives (NPP)** instead of manually coding GPU kernels.
 
